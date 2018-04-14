@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<p>UX/UI Designer with extensive experience in managing and coordinating distinct groups, across several fields, with an emphasis on 
+project management. 
+Skilled in conducting user research, developing information architecture, wireframing, conducting usability 
+tests, and prototyping in Sketch, InVision, HTML, and JavaScript. 
+Over a decade of presentation and instruction on micro and 
+macro levels. Experienced in managing projects in corporate, research, and education arenas. 
+Natural communicator who thrives on making the complex understandable and the chaotic efficient. 
+Bridging the gaps between the technical, creative, and logistic aspects of UX/UI to keep projects, businesses, and ideas in motion.
+</p>
+</html>
+
